@@ -3,6 +3,7 @@
 {
   "language": "c",
   "group": "stable",
-  "dist": "precise",
+  "dist": "trusty",
+  "sudo": "required",
   "os": "linux"
 }
